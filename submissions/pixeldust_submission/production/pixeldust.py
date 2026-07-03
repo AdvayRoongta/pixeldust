@@ -4,6 +4,7 @@ import time
 import dht
 import random
 #import math
+import pydisks
 # Configuration
 PIN = 15  # GPIO pin connected to the SK6812MINI
 NUM_LEDS = 36  # Change this to match your setup
